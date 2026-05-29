@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachectringify",
+        "uuid": 1231905,
+        "checksum": "gcxsih"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
